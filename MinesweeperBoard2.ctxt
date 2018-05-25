@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=MinesweeperBoard2
+comment1.params=
+comment1.target=MinesweeperBoard2()
+comment2.params=bombs
+comment2.target=void\ addBombs(int)
+comment3.params=
+comment3.target=void\ addNums()
+comment4.params=
+comment4.target=void\ printBoard()
+comment4.text=This\ method\ is\ used\ for\ testing\ and\ will\ be\ deleted\ if\ using\ the\ GUI.\r\n\ \ It\ is\ still\ required\ for\ all\ students.\r\n
+comment5.params=
+comment5.target=javax.swing.JPanel\ addCells()
+numComments=6
